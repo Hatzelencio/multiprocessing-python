@@ -1,0 +1,3 @@
+requests
+python-dotenv
+pyflakes==2.1.1
